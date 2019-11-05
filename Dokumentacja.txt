@@ -1,2 +1,5 @@
 Dokumentacja Api generującego kalendarz w formacie .ics na podstawie kalendarza na stronie weeia
 
+Zapytanie zwraca true jesli tekst podany w parametrze {text} zawiera mala litere.
+	GET/api/calendar/weeia
+	Odpowiedz : weeia.ics
